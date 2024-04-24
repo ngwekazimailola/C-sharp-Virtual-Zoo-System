@@ -1,13 +1,7 @@
 # C# Virtual Zoo Management System
 
-## Overview
-This project aims to design and implement a Virtual Zoo Management System in C# to simulate the management of animals in a zoo. The system will allow for the addition, tracking, and interaction with various types of animals, showcasing the principles of inheritance, polymorphism, method overloading, and the use of interfaces.
-
-## Project Objectives
-- **Implementing Inheritance:** Design a base class for animals and extend it with specific animal classes, demonstrating hierarchical relationships.
-- **Implementing Polymorphism:** Utilize polymorphism to allow for different behaviors among animals, such as speaking or moving, using overridden methods.
-- **Using Methods and Method Overloading:** Demonstrate the use of methods to simulate animal behaviors and interactions, implementing method overloading to handle different scenarios or inputs.
-- **Using Interfaces:** Define and implement interfaces to standardize certain capabilities or features across different animals, such as feeding or movement.
+## Description
+The Virtual Zoo Management System in C# is a software application designed to oversee the management of animals within a virtual zoo environment. This system enables users to add, track, and interact with different types of animals, emphasizing concepts such as inheritance, polymorphism, method overloading, and interface implementation. Through the use of classes and interfaces, the system facilitates the organization and simulation of various animal behaviors and characteristics.
 
 ## Project Tasks
 
